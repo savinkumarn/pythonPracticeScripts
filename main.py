@@ -4,7 +4,7 @@ from dataStructures.main_dataStruct import main_ds
 
 def main():
     # main function for special functions
-    main_special()
+    # main_special()
 
     # main function for data structure testing
     main_ds()
